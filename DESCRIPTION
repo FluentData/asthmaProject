@@ -1,0 +1,16 @@
+Package: asthmaProject
+Type: Package
+Title: Utility functions for the Fluent Data asthma project
+Version: 0.1.0
+Author: Nathan Byers and Eric Bailey
+Maintainer: Nathan Byers <nbyers@fluentdatallc.com>
+Description: Utility functions for the Fluent Data asthma project
+License: GPL-3
+LazyData: TRUE
+Depends:
+    dplyr,
+    tidyr,
+    ggplot2,
+    stringr,
+    reshape2
+RoxygenNote: 5.0.1
